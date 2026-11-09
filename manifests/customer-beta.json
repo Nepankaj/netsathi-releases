@@ -1,0 +1,10 @@
+{
+  "version": "0.2.0-beta.1",
+  "build": 5,
+  "sha256": "18a57e4b2602b7d350f1c035efe3c90699491cda077217f589200534ebff7e37",
+  "size": 71002061,
+  "url": "https://github.com/Nepankaj/netsathi-releases/releases/download/test-5.0-beta7/customer-beta-0.2.0-beta.1-5.apk",
+  "min_build": 0,
+  "notes": "NetSathi 5.0, beta 7: the first signed beta builds. The new ticket page with the line's optical power, Already has a router, Used on site, the customer page's corrections, the stage from the panel's word, rows that show only what they have, and the apps' own update check. (Betas 5 and 6 published no phone builds: the release pipeline's two faults are mended.)",
+  "package": "np.netsathi.customer.beta"
+}
