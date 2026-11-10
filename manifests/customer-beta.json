@@ -1,10 +1,10 @@
 {
   "version": "0.2.0-beta.1",
-  "build": 5,
-  "sha256": "18a57e4b2602b7d350f1c035efe3c90699491cda077217f589200534ebff7e37",
+  "build": 6,
+  "sha256": "e138a9adb8db625818d7f181275617c72e74d17c9c07186e92de05d1b1c2c888",
   "size": 71002061,
-  "url": "https://github.com/Nepankaj/netsathi-releases/releases/download/test-5.0-beta7/customer-beta-0.2.0-beta.1-5.apk",
+  "url": "https://github.com/Nepankaj/netsathi-releases/releases/download/test-5.0-beta8/customer-beta-0.2.0-beta.1-6.apk",
   "min_build": 0,
-  "notes": "NetSathi 5.0, beta 7: the first signed beta builds. The new ticket page with the line's optical power, Already has a router, Used on site, the customer page's corrections, the stage from the panel's word, rows that show only what they have, and the apps' own update check. (Betas 5 and 6 published no phone builds: the release pipeline's two faults are mended.)",
+  "notes": "NetSathi 5.0, beta 8: the first installable beta since beta 3, the server's ~100 changes with it. The Customers screen as three tabs (customers, who is online, sign-ins); on a phone, cards with Filter and Sort at the bottom left, each filter one drop-down, and one action button. The customers sorted by name, plan end or newest, and who is online shown by name. A terminated copy beside its base user ID goes to Duplicates as renamed. A beta 7 phone is offered this one by the apps' own update check.",
   "package": "np.netsathi.customer.beta"
 }
