@@ -1,0 +1,10 @@
+{
+  "version": "0.2.0",
+  "build": 7,
+  "sha256": "2b7364cdf80799192caea7ffd3b45e563d8c4033ae811e4a0e48cd7377f49973",
+  "size": 83449565,
+  "url": "https://github.com/Nepankaj/netsathi-releases/releases/download/v0.2.0/organisation-prod-0.2.0-7.apk",
+  "min_build": 0,
+  "notes": "NetSathi's apps 0.2.0, for NetSathi 5.0.",
+  "package": "np.netsathi.app"
+}
