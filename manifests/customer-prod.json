@@ -1,0 +1,10 @@
+{
+  "version": "0.2.0",
+  "build": 7,
+  "sha256": "e71db7e95cd564e56d6bd83439030039a2f3a1c85fd6fe610811182227260cb3",
+  "size": 72297245,
+  "url": "https://github.com/Nepankaj/netsathi-releases/releases/download/v0.2.0/customer-prod-0.2.0-7.apk",
+  "min_build": 0,
+  "notes": "NetSathi's apps 0.2.0, for NetSathi 5.0.",
+  "package": "np.netsathi.customer"
+}
