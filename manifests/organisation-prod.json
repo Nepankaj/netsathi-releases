@@ -1,10 +1,10 @@
 {
-  "version": "0.2.1",
-  "build": 8,
-  "sha256": "226805830994d2ab89eae61418a65bcf667c52da06187b96113ef1fb3c814187",
-  "size": 83941293,
-  "url": "https://github.com/Nepankaj/netsathi-releases/releases/download/v0.2.1/organisation-prod-0.2.1-8.apk",
+  "version": "0.2.2",
+  "build": 9,
+  "sha256": "2728e559ad674ddb7e8ee984a58ac3508509110058d4de4ca4ea7659b097f195",
+  "size": 84137901,
+  "url": "https://github.com/Nepankaj/netsathi-releases/releases/download/v0.2.2/organisation-prod-0.2.2-9.apk",
   "min_build": 0,
-  "notes": "NetSathi's apps 0.2.1, for NetSathi 5.1: the staff app's lists as cards or a table, with Filter and Sort on Tickets.",
+  "notes": "NetSathi apps 0.2.2\n\n- Tickets: the check line is gone; a failing portal check shows on top in red, and Check now is in the menu\n- The update offer shows each change as a point\n- Add a person asks for no groups: groups are given later\n- A ticket with no customer shows no empty Customer, Where or Optical power rows\n- The customers' Stage filter takes several stages at once\n- Fibre shows nothing it could not know when the OLT service could not be asked\n- An OLT's page draws the line under its name only where the service knows something\n- The platform home's service tiles load after the page is shown\n- The Call sheet opens at once and closes on Escape\n- A page loaded while offline no longer fails when you go back",
   "package": "np.netsathi.app"
 }
