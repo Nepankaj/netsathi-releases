@@ -1,10 +1,10 @@
 {
-  "version": "0.2.2",
-  "build": 9,
-  "sha256": "2728e559ad674ddb7e8ee984a58ac3508509110058d4de4ca4ea7659b097f195",
-  "size": 84137901,
-  "url": "https://github.com/Nepankaj/netsathi-releases/releases/download/v0.2.2/organisation-prod-0.2.2-9.apk",
+  "version": "0.2.3",
+  "build": 10,
+  "sha256": "0d43eb78ef1804f66b4b9f95869f3a9fb388128d0bdf0aa21ed912240e90e3dc",
+  "size": 84203437,
+  "url": "https://github.com/Nepankaj/netsathi-releases/releases/download/v0.2.3/organisation-prod-0.2.3-10.apk",
   "min_build": 0,
-  "notes": "NetSathi apps 0.2.2\n\n- Tickets: the check line is gone; a failing portal check shows on top in red, and Check now is in the menu\n- The update offer shows each change as a point\n- Add a person asks for no groups: groups are given later\n- A ticket with no customer shows no empty Customer, Where or Optical power rows\n- The customers' Stage filter takes several stages at once\n- Fibre shows nothing it could not know when the OLT service could not be asked\n- An OLT's page draws the line under its name only where the service knows something\n- The platform home's service tiles load after the page is shown\n- The Call sheet opens at once and closes on Escape\n- A page loaded while offline no longer fails when you go back",
+  "notes": "NetSathi apps 0.2.3\n\n- Raise a ticket by Type, Category and Subcategory, with its side and what to carry shown as you pick\n- A ticket shows its path, what to carry and its numbered steps\n- A job shows what to carry as a checklist, and its steps\n- A ticket in To sort asks for its category first\n- Tickets > Categories shows the tree, and an admin sets each one's side, what it carries and its steps",
   "package": "np.netsathi.app"
 }
