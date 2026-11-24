@@ -1,10 +1,10 @@
 {
-  "version": "0.2.3",
-  "build": 10,
-  "sha256": "0d43eb78ef1804f66b4b9f95869f3a9fb388128d0bdf0aa21ed912240e90e3dc",
-  "size": 84203437,
-  "url": "https://github.com/Nepankaj/netsathi-releases/releases/download/v0.2.3/organisation-prod-0.2.3-10.apk",
+  "version": "0.2.4",
+  "build": 11,
+  "sha256": "016489c2c3ada8439181d51d9c91f8d070bb917782cd1dfcd137ff9ca0ab29c6",
+  "size": 85006457,
+  "url": "https://github.com/Nepankaj/netsathi-releases/releases/download/v0.2.4/organisation-prod-0.2.4-11.apk",
   "min_build": 0,
-  "notes": "NetSathi apps 0.2.3\n\n- Raise a ticket by Type, Category and Subcategory, with its side and what to carry shown as you pick\n- A ticket shows its path, what to carry and its numbered steps\n- A job shows what to carry as a checklist, and its steps\n- A ticket in To sort asks for its category first\n- Tickets > Categories shows the tree, and an admin sets each one's side, what it carries and its steps",
+  "notes": "NetSathi apps 0.2.4\n\n- The manager's day: each type's tickets and what each person did, one day at a time, back a week; every number opens its tickets, and a person's day unfolds into their steps\n- A closed ticket says how it ended: back online, the technician's report, the office's reason, renewed or collected\n- Send to field and Send to office, with the reason asked on the page; a sent ticket is released to wait on that side\n- A technician sends a job that is not field work to the office, and raises another ticket from the job with the customer filled in\n- A No-internet complaint shows what the portal and the fibre said when it was raised, with Read again and Router is on\n- Resolved on a complaint, and It works now in the customer app: the complaint closes on its own once the line has stayed up, and says when\n- The office changes a ticket's category; a technician raises another ticket instead",
   "package": "np.netsathi.app"
 }
